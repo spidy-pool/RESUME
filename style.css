@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* height: 100vh;
+    width: 100vw; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main {
+    margin: 15px 30px 15px 30px;
+
+}
+
+.head {
+    display: flex;
+    text-align: center;
+}
+
+.head h1 {
+    font-weight: 900;
+    font-size: 1.5rem;
+    width: 100%;
+    height: 5%;
+    text-decoration: underline;
+}
+.first{
+    display: flex;
+}
+.first1{
+    width: 80%;
+}
+.first2 img {
+    height: 150px;
+    width: 110px;
+}
+
+.post {
+    font-size: 1.4rem;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-weight: 800;
+}
+
+.detail {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-decoration: underline;
+}
+
+.name {
+    display: flex;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+.n {
+    margin-right: 30rem;
+}
+
+
+.father {
+    font-size: 1rem;
+    display: flex;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+.f {
+    margin-right: 25.3rem;
+}
+
+.gender {
+    font-size: 1rem;
+    display: flex;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+.g {
+    margin-right: 28.9rem;
+}
+.address {
+    font-size: 1rem;
+    display: flex;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+.a {
+    margin-right: 28.4rem;
+}
+.marrage {
+    font-size: 1rem;
+    display: flex;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+.m {
+    margin-right: 24.6rem;
+}
+.religon{
+    font-size: 1rem;
+    display: flex;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+.r {
+    margin-right: 21.4rem;
+}
+.language{
+    font-size: 1rem;
+    display: flex;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+.h {
+    margin-right: 27.6rem;
+}
+.contact{
+    font-size: 1rem;
+    display: flex;
+    font-weight: 600;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+.c {
+    margin-right: 28.1rem;
+}
+.edu{
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin-top: 20px;
+}
+table{
+    width:100%;
+    margin: 2px 0 10px 0;
+    
+}
+table,td,th{
+    border: 1.4px solid black;
+}
+th{
+    font-weight: 600;
+  font-size: 1.05rem;
+  margin: 0;
+}
+td{
+    margin: 0;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+.second{
+    font-size: 1rem;
+    display: flex;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+.s{
+    margin-right: 79rem;
+}
